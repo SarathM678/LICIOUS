@@ -1,0 +1,210 @@
+@media only screen and (max-width: 500px) {
+
+.liciouslogo{
+    display: none;
+}
+.search{
+    display: none;
+}
+.navicons{
+        display: none;
+
+}
+.hot{
+    width: 90%;
+    height: 150px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.navbar{
+    width: 100%;
+    height: 70px;
+}
+.nav1{
+    width: 100%;
+    height: 50px;
+    justify-content: flex-start;
+}
+.hotdealsimg{
+    width: 100%;
+    height: 200px;
+}
+
+
+
+
+.text1{
+    /* background-color: orangered; */
+    width: 100%;
+    display: flex;
+    align-items: start;
+    text-align: start;
+
+}
+.fresh{
+    /* background-color: yellow; */
+    /* margin-left: 20px; */
+    width: 100%;
+    position: relative;
+    right: 18px;
+}
+.meats{
+    /* background-color: blue; */
+    display: grid;
+   grid-template-columns: repeat(4,100px);
+}
+.meats0{
+    width: 100%;
+    height: 500px;
+    /* background-color: coral; */
+    display: flex;
+    justify-content: center;
+}
+.fish{
+    /* background-color: cyan; */
+    width: 70px;
+}
+.container{
+
+    /* background-color: darkmagenta; */
+    width: 100%;
+    height: 160px;
+    display: flex;
+    align-items: center;
+}
+
+.container2{
+   width: 100px;
+    height: 320px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+    
+
+    
+}
+.breakfast{
+    background-color: chocolate;
+    height: 400px;
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+}
+/* .specials{
+    background-color: rgb(20, 9, 9);
+    width: 100%;
+} */
+.specials{
+    flex-wrap: wrap;
+    width: 200%;
+    height: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: magenta; */
+    cursor: pointer;
+}
+.line{
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    
+
+}
+.line1{
+    /* background-color: chartreuse; */
+    width: 90%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.breakfast{
+    /* background-color: cornflowerblue; */
+    width: 100%;
+    height: 300px;
+}
+
+.container2{
+    /* background-color: greenyellow; */
+    width: 250px;
+}
+.specials{
+    /* background-color: coral; */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 300px;
+
+}
+.exp{
+    display: none;
+}
+.experience{
+    width: 100%;
+    height: 450px;
+    /* background-color: darkblue; */
+    display: flex;
+    flex-direction: column;
+}
+.exp1{
+    width: 100%;
+    height: 300px;
+}
+.exp2{
+    width: 100%;
+    height: 300px;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: row;
+}
+.none{
+    display: none;
+}
+.a8{
+    width: 40%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+.a9{
+    width: 60%;
+    height: 100px;
+    /* display: flex; */
+    justify-content: space-around;
+}
+.expi{
+    display: contents;
+}
+.a4{
+    width: 100%;
+    height: 50px;
+}    
+.a1{
+    width: 100%;
+    height: 200px;
+}
+.divs{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 500px;
+    /* background-color: brown; */
+    
+
+}
+.cities{
+    width: 100%;
+    height: 500px;
+    /* background-color: chartreuse; */
+}
+
+
+
+
+
+}
